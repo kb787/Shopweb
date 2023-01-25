@@ -1,0 +1,20 @@
+.Payment {
+  border: solid;
+  border-color: lightgrey;
+  color: white;
+  background-color: orange;
+  font-size: 2vw;
+  text-align: center;
+  margin-top: 0vw;
+}
+
+.paymentControl {
+  font-size: 2vw;
+}
+
+.paymentButton {
+  font-size: 2vw;
+  border-color: red;
+  background-color: red;
+  color: white;
+}

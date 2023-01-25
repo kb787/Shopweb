@@ -1,0 +1,35 @@
+.Oppo {
+  margin-top: 5vw;
+}
+
+.oppoSet {
+  display: flex;
+  gap: 7vw;
+  list-style-type: none;
+}
+
+.oppoList {
+  background-color: white;
+  font-size: 0.95vw;
+  width: 25vw;
+  height: 25vw;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.oppoButton {
+  font-size: 1vw;
+  border-radius: 0.85rem;
+  border-color: darkmagenta;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.oppoImage {
+  width: 7vw;
+  height: 10vw;
+}
+
+.Oppo {
+  background-color: lightgreen;
+}

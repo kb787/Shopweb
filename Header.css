@@ -1,0 +1,53 @@
+.navg {
+  display: flex;
+  gap: 6vw;
+  list-style-type: none;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 1vw;
+
+  color: yellow;
+  height: 3vw;
+}
+
+.searchForm {
+  font-size: 1vw;
+}
+
+.bLogo {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: oblique;
+  color: yellow;
+}
+
+.itemCat {
+  display: flex;
+  gap: 5vw;
+  list-style-type: none;
+  font-size: 1vw;
+  color: yellow;
+}
+
+.headerImg {
+  width: 6vw;
+}
+
+.headerButton {
+  width: 5vw;
+  font-size: 1vw;
+  text-align: center;
+
+  border-radius: 0.75rem;
+  background-color: red;
+  color: white;
+  border-color: red;
+}
+
+.header {
+  background-color: darkmagenta;
+}
+
+.link {
+  color: yellow;
+  text-decoration: none;
+}

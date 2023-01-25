@@ -1,0 +1,30 @@
+.Login {
+  border-color: red;
+  border: solid;
+  font-size: 3vw;
+  text-align: center;
+  color: red;
+  background-color: orange;
+  color: white;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+
+.loginLabel {
+  font-size: 1.5vw;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-style: inherit;
+}
+
+.loginForm {
+  font-size: 1vw;
+}
+
+.loginButton {
+  font-size: 1vw;
+  margin-bottom: 2vw;
+  border-radius: 0.95rem;
+  background-color: red;
+  color: white;
+  border-color: red;
+}

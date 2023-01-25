@@ -1,0 +1,16 @@
+.clothingInstance {
+  list-style-type: none;
+  font-size: 1vw;
+}
+
+.clothingInstanceHead {
+  font-size: 2vw;
+}
+
+.Clothing {
+  text-align: center;
+  border: solid;
+  border-color: lightgrey;
+  background-color: orange;
+  color: white;
+}

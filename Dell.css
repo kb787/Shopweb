@@ -1,0 +1,31 @@
+.dellSet {
+  display: flex;
+  gap: 7vw;
+  list-style-type: none;
+}
+
+.dellList {
+  background-color: white;
+  font-size: 1vw;
+  width: 30vw;
+  height: 30vw;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.dellButton {
+  font-size: 1vw;
+  border-radius: 0.85rem;
+  border-color: darkmagenta;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.dellImage {
+  width: 15vw;
+  height: 11vw;
+}
+
+.Dell {
+  background-color: lightgreen;
+}

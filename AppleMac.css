@@ -1,0 +1,31 @@
+.appleMacSet {
+  display: flex;
+  gap: 7vw;
+  list-style-type: none;
+}
+
+.appleMacList {
+  background-color: white;
+  font-size: 1vw;
+  width: 30vw;
+  height: 30vw;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.appleMacButton {
+  font-size: 1vw;
+  border-radius: 0.85rem;
+  border-color: darkmagenta;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.appleMacImage {
+  width: 15vw;
+  height: 11vw;
+}
+
+.AppleMac {
+  background-color: lightgreen;
+}

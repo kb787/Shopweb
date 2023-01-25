@@ -1,0 +1,70 @@
+.contentBody {
+  font-size: 1.6vw;
+}
+
+.contentImg {
+  width: 9vw;
+  height: 9vw;
+}
+
+.contentMobImg {
+  width: 6vw;
+  height: 9vw;
+}
+
+.contentCards {
+  display: flex;
+  gap: 5vw;
+  list-style-type: none;
+  font-size: 2vw;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contentMobCards {
+  display: flex;
+  gap: 5vw;
+  list-style-type: none;
+  color: white;
+  font-size: 2vw;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contentButton {
+  width: 10vw;
+  font-size: 1vw;
+  border-color: red;
+  background-color: red;
+  color: white;
+}
+
+.contentMobButton {
+  width: 10vw;
+  font-size: 1vw;
+  border-color: red;
+  background-color: red;
+  color: white;
+}
+
+.cHeading {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-style: italic;
+  color: white;
+  font-size: 3vw;
+  text-align: center;
+}
+
+#contentEndButton {
+  font-size: 1.5vw;
+  width: 10vw;
+  margin-right: 50vw;
+  margin-left: 40vw;
+  border-radius: 0.75rem;
+  border-color: purple;
+  background-color: red;
+  margin-bottom: 3vw;
+}
+.Content {
+  margin-top: 0vw;
+  background-color: orange;
+}
